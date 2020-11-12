@@ -1,5 +1,5 @@
 # Data-Mining-and-ML
-K-means clustering, MLP, SVM and Ensemble learning
+K-means clustering, MLP, SVM and Ensemble learning using R programming language. 
 
 There are three parts:
 
